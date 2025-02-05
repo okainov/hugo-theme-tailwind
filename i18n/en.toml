@@ -5,6 +5,10 @@ open_lang_switcher = "Open language switcher"
   one = "One minute to read"
   other = "{{ .Count }} minutes to read"
 
+[word_count]
+  one = "One word"
+  other = "{{ .Count }} words"
+
 [search]
 title = "Search"
 empty_result = "No result found."
