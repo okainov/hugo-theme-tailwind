@@ -6,6 +6,11 @@ open_lang_switcher = "Открыть переключатель языка"
   few = "{{ .Count }} минуты для чтения"
   other = "{{ .Count }} минут для чтения"
 
+[word_count]
+  one = "{{ .Count }} слово"
+  few = "{{ .Count }} слова"
+  other = "{{ .Count }} слов"
+
 [search]
 title = "Поиск"
 empty_result = "Ничего не найдено."
